@@ -9,6 +9,10 @@ The **Secrets Project** is a backend-focused web application built using **Node.
 Rather than exposing credentials on the client side, this project follows **industry best practices** by using **environment variables** and server-side API requests, ensuring that secrets remain protected at all times.
 
 This project reflects how modern backend systems safely interact with third-party services.
+<img width="542" height="788" alt="image" src="https://github.com/user-attachments/assets/52854e78-a3d2-4c12-b5f4-c38f0eaa4d42" />
+<img width="506" height="782" alt="image" src="https://github.com/user-attachments/assets/4effb6b6-5aa5-48e4-b75a-0a6f57cbef12" />
+
+
 
 ---
 
